@@ -10,7 +10,7 @@ This session is intended for participants who have a basic understanding of the 
 
 ### Requirements
 
-Some basic Python programming knowledge is required to fully understand the example code. Consider the working through [Intro to Python(https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/intro-to-python] prior to this workshop.
+Some basic Python programming knowledge is required to fully understand the example code. Consider the working through [Intro to Python](https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/intro-to-python) prior to this workshop.
 
 The requirements for the Python code can be installed using the following command:
 
